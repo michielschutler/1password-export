@@ -29,6 +29,10 @@ section 'Create a secure disk image' for instructions.
 This guide assumes you created a secure disk image called 'Secure' which
 has been mounted as '/Volumes/Secure'.
 
+On a Mac you are also advised to exclude this directory from Spotlight
+searches. See https://support.apple.com/en-gb/guide/mac-help/mchl1bb43b84/mac
+for instructions.
+
 ## Run
 
 When you call the script with:
